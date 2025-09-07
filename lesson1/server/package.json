@@ -16,7 +16,7 @@
   "description": "A simple Hello World MCP server",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.6.0",
-    "@types/node": "^20.0.0",
+    "@types/node": "^20.19.11",
     "ts-node": "^10.9.1"
   },
   "devDependencies": {
